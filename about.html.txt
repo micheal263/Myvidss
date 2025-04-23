@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MyVids - About</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>MyVids</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="videos.html">Videos</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>  <main>
+    <h2>About MyVids</h2>
+    <p>Welcome to MyVids! This site is dedicated to bringing together a community of video creators and bloggers. Whether you're sharing your favorite videos, writing insightful blog posts, or monetizing your content through ads, MyVids is the place for you.</p>
+    <p>We believe in the power of content creation and the freedom to express ideas and creativity. Join us on this exciting journey!</p><h3>Contact Us</h3>
+<p>If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:</p>
+<ul>
+  <li>Email: <a href="mailto:contact@myvids.com">contact@myvids.com</a></li>
+  <li>Twitter: <a href="https://twitter.com/" target="_blank">@MyVids</a></li>
+  <li>Facebook: <a href="https://facebook.com/" target="_blank">/MyVids</a></li>
+</ul>
+
+<!-- Native Banner Ad Placeholder -->
+<div class="ad-banner">
+  <!-- Paste your Monetag native banner script here -->
+  <p>[Ad Placeholder]</p>
+</div>
+
+  </main>  <footer>
+    <p>&copy; 2025 MyVids. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://twitter.com/" target="_blank">Twitter</a> |
+      <a href="https://facebook.com/" target="_blank">Facebook</a> |
+      <a href="https://instagram.com/" target="_blank">Instagram</a> |
+      <a href="https://youtube.com/" target="_blank">YouTube</a>
+    </div>
+  </footer>
+</body>
+</html>
